@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="android:textColorPrimary">#F5F5F5</item>
+    </style>
+
+    <declare-styleable name="ParallaxScrollView">
+        <attr name="backgroundView" />
+        <attr name="scrollFactor" />
+    </declare-styleable>
+
+    <attr name="backgroundView" format="reference" />
+    <attr name="scrollFactor" format="float" />
+
+</resources>

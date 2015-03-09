@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Viajabessa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_title">Pacote de Viagens</string>
+    <string name="rio_de_janeiro">Rio de Janeiro</string>
+    <string name="salvador_i">Salvador I</string>
+    <string name="salvador_ii">Salvador II</string>
+    <string name="title_activity_travel_details">Detalhes do Pacote</string>
+    <string name="londres">Londres</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut         labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores         et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\\n\\nLorem        ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et        dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.         Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\\n\\nLorem ipsum dolor         sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna         aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita         kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\\n\\nDuis autem vel eum iriure dolor         in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at         vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis         dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam         nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</string>
+    <string name="package_description">Descrição do pacote:</string>
+    <string name="buy">COMPRAR</string>
+
+    <string name="description_salvador">A região é extremamente rica em monumentos históricos que datam do século XVII até o século XIX. Isso porque Salvador foi a primeira capital colonial do Brasil e a cidade é uma das mais antigas do Novo Mundo (fundada em 1549 por colonizadores portugueses). Foi também o primeiro mercado de escravos do continente, com escravos que chegaram para trabalhar nas plantações de açúcar.</string>
+    <string name="description_veneza">Veneza é uma cidade e comuna italiana da região do Vêneto, província de Veneza no nordeste de Itália. Tem cerca de 271 009 habitantes e é conhecida pela sua história, canais, museus e monumentos. A comuna de Veneza estende-se por uma área de 412 km², incluindo as ilhas de Murano, Burano e outras na lagoa de Veneza, tendo uma densidade populacional de 646 hab/km². Faz fronteira com Campagna Lupia, Cavallino-Treporti, Chioggia, Jesolo, Marcon, Martellago, Mira, Mogliano Veneto (TV), Musile di Piave, Quarto dAltino, Scorzè, Spinea. A parte de Veneza em terra firme é a fracção comunal de Mestre.A cidade foi formada num arquipélago da laguna de Veneza, no golfo de Veneza, no noroeste do mar Adriático.Por mais de um milênio, foi capital da Sereníssima República de Veneza, cujo território, no ano da sua queda (1797), incluía grande parte do nordeste da atual Itália e da costa oriental da península, bem como das ilhas do Adriático. Tornou-se uma potência comercial a partir do século X, quando sua frota já era uma das maiores da Europa. Foi uma das cidades mais importantes da Europa, com uma história rica e complexa e um império de influência mundial comandado pelos doges, os líderes da cidade. Como cidade comercial, tinha várias feitorias (Stato da Mar), como o Senhorio de Negroponte e a cidade de Dirráquio (atual Durrës), assim como ilhas inteiras: Creta, Rodes, Cefalônia e Zante, por exemplo, e controlava várias rotas comerciais no Levante. O historiador Fernand Braudel classificou Veneza como a primeira capital econômica do capitalismo.</string>
+    <string name="map">MAPA</string>
+    <string name="title_activity_package_in_map">Local</string>
+    <string name="check_connection">Por favor, verifique a sua internet e tente novamente.</string>
+    <string name="title_activity_purchase_confirm">Confirmar compra</string>
+
+</resources>
