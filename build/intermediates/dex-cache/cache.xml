@@ -16,11 +16,11 @@
         <dex dex="C:\Users\user\Documents\Viajabessa\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-62a15a97b34e0818936104929eb9d099c1ed2eb9.jar" />
     </item>
     <item
-        jar="C:\Users\user\Documents\Viajabessa\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\user\Documents\Viajabessa\app\build\intermediates\pre-dexed\debug\classes-516964d1aa24ecfa2d83cfd157463501ea42688d.jar" />
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\pre-dexed\debug\classes-aa2947ec4123b712cac8933a3933aef964cc932c.jar" />
     </item>
     <item
         jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
@@ -30,11 +30,39 @@
         <dex dex="C:\Users\user\Documents\Viajabessa\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-2c5ece3fe73514c52a7fdebee3fc9222c10d434d.jar" />
     </item>
     <item
+        jar="C:\Users\user\Documents\Viajabessa\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\user\Documents\Viajabessa\app\build\intermediates\pre-dexed\debug\classes-516964d1aa24ecfa2d83cfd157463501ea42688d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\pre-dexed\debug\classes-18e4e77b4e971efa6285c092524e2c82c2928d67.jar" />
+    </item>
+    <item
         jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
         <dex dex="C:\Users\user\Documents\Viajabessa\app\build\intermediates\pre-dexed\debug\gson-2.3.1-33e6a92b114e0e187a9439707dcdd48fdc41b13e.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c73ea525909a99334cf21d4185b06015a0d32986.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\user\Documents\ViajabessaTeste_DeletarDepois\app\build\intermediates\pre-dexed\debug\classes-3fdebbe34a7757266c4a545a5fc6eb670f9dd68a.jar" />
     </item>
     <item
         jar="C:\Users\user\Documents\Viajabessa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
